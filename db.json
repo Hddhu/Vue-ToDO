@@ -13,10 +13,10 @@
       "reminder": false
     },
     {
-      "id": "3",
-      "text": "Food Shopping",
-      "day": "March 3st at 10.00am",
-      "reminder": false
+      "text": "test1",
+      "day": "test1",
+      "reminder": true,
+      "id": "KsCOV1A"
     }
   ]
 }
